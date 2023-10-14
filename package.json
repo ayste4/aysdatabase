@@ -1,0 +1,20 @@
+{
+  "name": "aysdatabase",
+  "version": "1.0.0",
+  "description": "AysDatabase is a simple JSON-based database module for Node.js. It allows you to store and manage data in JSON format within a file. This module is suitable for small-scale projects and prototypes where you need a lightweight database system.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "database",
+    "ays",
+    "db",
+    "aysdb"
+  ],
+  "author": "AYS",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}
